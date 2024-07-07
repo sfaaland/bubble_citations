@@ -1,0 +1,1 @@
+# TODO: figure out how to parse academic pdfs into text/metadata entries. save each as mini-directory with separate file contents as own files.  How does Zotero do this?
