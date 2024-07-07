@@ -1,0 +1,7 @@
+README.md
+setup.py
+bubble_citations.egg-info/PKG-INFO
+bubble_citations.egg-info/SOURCES.txt
+bubble_citations.egg-info/dependency_links.txt
+bubble_citations.egg-info/requires.txt
+bubble_citations.egg-info/top_level.txt

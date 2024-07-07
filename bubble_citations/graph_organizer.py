@@ -1,0 +1,1 @@
+# TODO: figure out how to organize bubbles in concise manner.  Look up plt.figure.tight_layout() backend
